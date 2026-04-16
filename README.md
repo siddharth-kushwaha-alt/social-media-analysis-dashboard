@@ -80,11 +80,6 @@ The dataset contains information on:
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard](images/dashboard.png)
-
----
-
 ## 🚀 Business / Real-World Relevance
 This analysis can be useful for:
 - Educators to understand student behavior patterns  
