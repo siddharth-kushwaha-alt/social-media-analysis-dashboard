@@ -99,6 +99,6 @@ This emphasizes the importance of balanced usage and targeted interventions.
 
 ## 📌 Conclusion
 This project demonstrates how data can be used to uncover meaningful behavioral insights and support better decision-making.  
-It goes beyond visualization by identifying patterns that have real-world implications on student well-being and performance
+It goes beyond visualization by identifying patterns that have real-world implications on student well-being and performance.
 
 ---
